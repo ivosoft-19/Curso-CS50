@@ -1,0 +1,18 @@
+# Diretório de saída de compilação
+/output/
+
+# Arquivos binários e objetos
+*.o
+*.out
+a.out
+*.exe
+
+# Binários gerados na raiz do projeto
+hello
+main
+nome
+aula2
+
+# Editor / sistema
+.vscode/
+.DS_Store
